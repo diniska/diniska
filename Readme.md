@@ -6,7 +6,7 @@
 
 ## 🔬 Chemistry
 ![Chemistry](AppsScreenshots/Chemistry.png)
-Chemistry is a powerful tool that helps users to solve chemical equations and search chemical reactions easily. The app includes a convenient interactive Periodic Table, a calculator of molar masses, a solubility table, and Acid strength chart. The app also features offline access to information about chemical elements, a search button to find elements by name or symbol, widgets to easily remember the periodic table and chemical elements, and all these tables and charts are available in the free Chemistry app. [Download on the App Store](https://apps.apple.com/app/chemistry/id493558583?pt=965231&ct=github_diniska&mt=8) [Download on Google Play](https://play.google.com/store/apps/details?id=com.chemistry)
+Chemistry is a powerful tool that helps users to solve chemical equations and search chemical reactions easily. The app includes a convenient interactive Periodic Table, a calculator of molar masses, a solubility table, and Acid strength chart. The app also features offline access to information about chemical elements, a search button to find elements by name or symbol, widgets to easily remember the periodic table and chemical elements, and all these tables and charts are available in the free Chemistry app. [Download on the App Store](https://apps.apple.com/app/chemistry/id493558583?pt=965231&ct=github_diniska&mt=8). [Download on Google Play](https://play.google.com/store/apps/details?id=com.chemistry)
 
 ## 📚 Math Guru
 
