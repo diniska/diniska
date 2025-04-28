@@ -1,6 +1,6 @@
 # About Me
 
-🚀 I am a mobile app developer with a passion for creating beautiful and intuitive apps for iOS, iPadOS, macOS, and Android platforms. I specialize in creating educational and scientific apps, such as 🔬 [Chemistry](https://getchemistry.io) and 📚 [Math Guru](https://math-guru.app), as well as design-related apps like 🎨 [Mesh Gradients](https://diniska.app/mesh-gradients/). My goal is to make learning and creating more accessible and enjoyable for users.
+🚀 I am a mobile apps developer with a passion for creating beautiful and intuitive apps for iOS, iPadOS, macOS, and Android platforms. I specialize in creating educational and scientific apps, such as 🔬 [Chemistry](https://getchemistry.io) and 📚 [Math Guru](https://math-guru.app), as well as design-related apps like 🎨 [Mesh Gradients](https://diniska.app/mesh-gradients/). My goal is to make learning and creating more accessible and enjoyable for users.
 
 # My Projects
 
